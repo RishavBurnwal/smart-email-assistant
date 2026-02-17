@@ -110,5 +110,5 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Rishav**  
+**Rishav Burnwal**  
 Full Stack Developer (Java + React)
